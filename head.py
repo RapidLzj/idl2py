@@ -5,7 +5,7 @@ v1 2019-04-27
 
 
 import numpy as np
-from.util import *
+from..util import *
 
 
 def xxxx():
